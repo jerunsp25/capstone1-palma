@@ -47,7 +47,7 @@ h1 {
 #Home {
   background-image: url("./images/HomeBG.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: center right;
   position: relative;
   min-height: 100vh;
   min-width: 100vw;
