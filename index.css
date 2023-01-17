@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+}
+
+h1 {
+  font-family: 'Barlow Condensed', sans-serif;
+}
+ 
+#navbarNav li > a:hover {
+  color: #E5B71F;
+}
+
+#Nlogo {
+  font-size: 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+#me {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 2rem;
+}
+
+#dev {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 2.5rem;
+}
+
+#acti {
+  font-family: 'Oswald', sans-serif;
+  font-size: 3rem;
+}
+
+#conta {
+  font-family: 'Oswald', sans-serif;
+  font-size: 3rem;
+}
+
+
+
+#Home {
+  background-image: url("./HomeBG.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  min-height: 100vh;
+  min-width: 100vw;
+  background-repeat: no-repeat;
+}
+
+#About {
+  background-image: url("./Back.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  min-height: 100vh;
+  min-width: 100vw;
+  background-repeat: no-repeat;
+}
+
+#Gallery {
+  background-image: url("./Back.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  min-height: 100vh;
+  min-width: 100vw;
+  background-repeat: no-repeat;
+}
+
+#Contact {
+  background-image: url("./Back.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  min-height: 100vh;
+  min-width: 100vw;
+  background-repeat: no-repeat;
+}
+
+
+@media (min-width:  576px) {
+  body {
+
+  }
+}
