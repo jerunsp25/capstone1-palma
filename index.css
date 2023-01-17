@@ -45,7 +45,7 @@ h1 {
 
 
 #Home {
-  background-image: url("./HomeBG.jpg");
+  background-image: url("./images/HomeBG.jpg");
   background-size: cover;
   background-position: center;
   position: relative;
@@ -55,7 +55,7 @@ h1 {
 }
 
 #About {
-  background-image: url("./Back.jpg");
+  background-image: url("./images/Back.jpg");
   background-size: cover;
   background-position: center;
   position: relative;
@@ -65,7 +65,7 @@ h1 {
 }
 
 #Gallery {
-  background-image: url("./Back.jpg");
+  background-image: url("./images/Back.jpg");
   background-size: cover;
   background-position: center;
   position: relative;
@@ -75,7 +75,7 @@ h1 {
 }
 
 #Contact {
-  background-image: url("./Back.jpg");
+  background-image: url("./images/Back.jpg");
   background-size: cover;
   background-position: center;
   position: relative;
